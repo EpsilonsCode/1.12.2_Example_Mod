@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "mod:blocks/charge_table_side",
+    "down": "mod:blocks/charge_table_top",
+    "up": "mod:blocks/charge_table_top",
+    "north": "mod:blocks/charge_table_side",
+    "east": "mod:blocks/charge_table_side",
+    "south": "mod:blocks/charge_table_side",
+    "west": "mod:blocks/charge_table_side"
+  }
+}
